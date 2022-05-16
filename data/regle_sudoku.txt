@@ -1,0 +1,32 @@
+******************************************************************************
+******************************************************************************
+****        **       **      ****  ******       ************      **  **  ****
+****  ****  **  *******  ********  ******  *****************  ***  **  **  ***
+****        **    *****  **    **  ******    ***************  ***  **  **  ***
+****  *   ****  *******  ***  ***  ******  *****************  ***  **  **  ***
+****  ***   **       **       ***      **       ************      **      ****
+******************************************************************************
+******************************************************************************
+*****************************      **       **  **  **************************
+*******************************  ****  *******  **  **************************
+*******************************  ****    *****  **  **************************
+*******************************  ****  *******  **  **************************
+*****************************    ****       **      **************************
+******************************************************************************
+******************************************************************************
+Sudoku est joué sur une grille de 9 x 9 espaces.
+Dans les lignes et les colonnes sont 9  carrés  (composé de 3 x 3 espaces).
+Chaque rangée, colonne et carré (9 espaces chacun) doit être rempli avec les numéros 1-9,
+sans répéter aucun nombre dans la meme rangée, la meme colonne ou le meme carré.
+
+En commencant le jeu, des cases sont préalablement entrés, il faut continuer à parcourir la grille 
+afin de la remplir entierement 
+Avant de jouer, on vous demandera le choix de difficulté
+elle representera le nombre de cases remplie en debut de partie
+Plus la difficulté est haute, moins il y aura de cases remplie
+
+Vous disposez de 3 vies. 
+A chaque fois que vous entrez un chiffre alors qu'il est déja present 
+sur le même carrée, la même rangée ou la même colonne, 
+une vie se supprime
+La partie se termine lorsque vous êtes mort, ou lorsque la grille est pleine
